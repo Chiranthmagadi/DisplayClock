@@ -1,0 +1,12 @@
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\obj\Debug\netcoreapp3.1\Display.Clock.Text.AssemblyInfoInputs.cache
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\obj\Debug\netcoreapp3.1\Display.Clock.Text.AssemblyInfo.cs
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\obj\Debug\netcoreapp3.1\Display.Clock.Text.csproj.CoreCompileInputs.cache
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\bin\Debug\netcoreapp3.1\Display.Clock.Text.exe
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\bin\Debug\netcoreapp3.1\Display.Clock.Text.deps.json
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\bin\Debug\netcoreapp3.1\Display.Clock.Text.runtimeconfig.json
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\bin\Debug\netcoreapp3.1\Display.Clock.Text.runtimeconfig.dev.json
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\bin\Debug\netcoreapp3.1\Display.Clock.Text.dll
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\bin\Debug\netcoreapp3.1\Display.Clock.Text.pdb
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\obj\Debug\netcoreapp3.1\Display.Clock.Text.dll
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\obj\Debug\netcoreapp3.1\Display.Clock.Text.pdb
+C:\Learning\Displlay.Clock.Text\Displlay.Clock.Text\obj\Debug\netcoreapp3.1\Display.Clock.Text.genruntimeconfig.cache
